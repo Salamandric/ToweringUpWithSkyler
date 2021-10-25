@@ -1,9 +1,6 @@
 # ToweringUpWithSkyler
 
-
-
-
-
+Game for Ludwig Jam 2021
 
 Special Thanks:
 
