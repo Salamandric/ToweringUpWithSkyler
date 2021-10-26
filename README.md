@@ -1,5 +1,8 @@
 # ToweringUpWithSkyler
 
+FOR JUDGES/MODS
+You can find the project in the folder labled "Project Folder" to compile
+
 Game for Ludwig Jam 2021
 
 Special Thanks:

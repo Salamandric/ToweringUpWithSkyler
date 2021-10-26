@@ -1,0 +1,39 @@
+-Ideas
+
+Need more block shapes
+
+
+Pegs that bounce blocks back into tower
+Dont collide with blocks when off screen
+
+Changing enviroment as you build higher
+
+--Chasm
+--Ocean/Bay idk
+--Forest
+--Clouds
+--Space
+
+Chasm Hazards
+Blocks have Rock texture
+Help the player with rocks that can support the tower
+
+
+Beach Hazards
+Blocks have sand texture
+Wind
+
+
+Forest
+Blocks have Wood texture
+Thorns that destroy blocks when they get touched
+
+
+Clouds
+see below
+Ice Blocks/less friction
+
+
+Space
+Blocks have Metal texture
+Less Gravity
