@@ -3,6 +3,8 @@
 FOR JUDGES/MODS
 You can find the project in the folder labled "Project Folder" to compile
 
+If you're not a judge you can delete the Project Folder to save space.
+
 Game for Ludwig Jam 2021
 
 Special Thanks:
